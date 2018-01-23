@@ -203,6 +203,8 @@ public class CalculateFragment extends Fragment implements View.OnClickListener 
                 break;
 
 
+
+
         }      //  switch
 
 
